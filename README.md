@@ -115,14 +115,3 @@ cfg = {
   * libpng-1.2.49
   * freetype-2.4.10    
 * inotify(可选)
-
-
-## 安装
-请参考：http://www.hopesoft.org/blog/?p=1188<br/>
-
-## TODO
-* 增加更多图片处理功能
-* 增加图片上传功能
-
-## 联系
-hopesoft <hopesoft@126.com>
