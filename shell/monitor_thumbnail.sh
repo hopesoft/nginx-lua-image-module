@@ -1,6 +1,6 @@
 #!/bin/bash
-basedir=/home/wwwroot/img.51ajax.com/
-hostname=img.51ajax.com
+basedir=/home/wwwroot/img/
+hostname=img.xxx.com
 thumbnaildir=thumbnail
 excludedir=^${basedir}${thumbnaildir}
 
